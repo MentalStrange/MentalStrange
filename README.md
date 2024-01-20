@@ -1,4 +1,4 @@
-<p align = "center" > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=9333F7&center=true&width=600&height=60&lines=Full-Stack+Developer+Using;+(+MERN+%26%26+Laravel+%22PHP%22+)" alt="Typing SVG" /></a><p/>
+<p align = "center" > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=9333F7&center=true&width=600&height=60&lines=Full-Stack+Developer+Using;+(+MERN)" alt="Typing SVG" /></a><p/>
 <h1 align="center">Hi 👋, I'm Mohamed Ramadan</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
